@@ -1,0 +1,37 @@
+{
+  "name": "reviewData.json",
+  "version": "0.0.1",
+  "author": "sktndid1203@naver.com",
+  "items": [
+    {
+      "id": "enl123",
+      "name": "김멋사",
+      "product": "[KF365] 간편한 국산 손질 오징어 1kg",
+      "content": "손질오징어 먹기 편하고 진짜 맛있습니다.",
+      "date": "2024.01.14",
+      "isBest": true,
+      "userClass": "화이트",
+      "recommand": 41
+    },
+    {
+      "id": "e43fel3",
+      "name": "박이듬",
+      "product": "[KF365] 간편한 국산 손질 오징어 1kg",
+      "content": "간편하고 한번 살 때 대량으로 구매합니다. 언제나 추천하는 마켓컬리.",
+      "date": "2024.01.15",
+      "isBest": false,
+      "userClass": "퍼플",
+      "recommand": 2
+    },
+    {
+      "id": "123Def3",
+      "name": "최돌쇠",
+      "product": "[KF365] 간편한 국산 손질 오징어 1kg",
+      "content": "오징어가 진짜 맛있어요!!",
+      "date": "2024.01.05",
+      "isBest": false,
+      "userClass": "화이트",
+      "recommand": 10
+    }
+  ]
+}
