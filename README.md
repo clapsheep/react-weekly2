@@ -30,3 +30,6 @@ vite에서 제공하는 react 스케폴딩을 활용하여, 개발환경 구성,
 - noticeData 및 reviewData를 json 파일에서 데이터를 가져와서 리스트 렌더링
 - 조건문을 사용하여 베스트 리뷰인 항목에 `베스트` 뱃지 디자인 삽입
 - CSS는 각각 ModuleCSS를 사용하여 할당
+
+### 구현 이미지
+<img width="920" alt="스크린샷 2024-01-28 오전 3 06 52" src="https://github.com/clapsheep/react-weekly2/assets/140643716/408fc25c-eea8-4a28-bc68-93e1eda44002">
